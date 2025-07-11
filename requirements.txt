@@ -1,0 +1,4 @@
+streamlit
+pymupdf
+nltk
+sentence-transformers
