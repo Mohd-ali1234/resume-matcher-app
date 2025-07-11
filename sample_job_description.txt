@@ -1,0 +1,4 @@
+Job Title: Machine Learning Architect
+Location: Santa Monica, CA
+
+We’re looking for an experienced Machine Learning Architect to lead the design and deployment of scalable ML systems. The ideal candidate has hands-on expertise with TensorFlow, OpenCV, Flask, and FairML, and a strong track record of optimizing models, building APIs, and reducing algorithmic bias. You’ll work on cutting-edge projects in video analysis, predictive modeling, and automation to improve performance and fairness in intelligent systems.
